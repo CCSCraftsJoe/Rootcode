@@ -1,0 +1,55 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://culversculpture.com/rootcode/schema/rootcode-1.0.schema.json",
+  "title": "Rootcode 1.0 Canonical Alphabet",
+  "type": "object",
+  "required": [
+    "meta",
+    "glyphs"
+  ],
+  "properties": {
+    "meta": {
+      "type": "object"
+    },
+    "glyphs": {
+      "type": "object",
+      "minProperties": 26,
+      "maxProperties": 26,
+      "patternProperties": {
+        "^[A-Z]$": {
+          "type": "object",
+          "required": [
+            "centerX",
+            "topY",
+            "height",
+            "strokeCount",
+            "nodes",
+            "bodySVG"
+          ],
+          "properties": {
+            "centerX": {
+              "type": "number"
+            },
+            "topY": {
+              "type": "number"
+            },
+            "height": {
+              "type": "number"
+            },
+            "strokeCount": {
+              "type": "integer"
+            },
+            "nodes": {
+              "type": "array"
+            },
+            "bodySVG": {
+              "type": "string"
+            }
+          }
+        }
+      },
+      "additionalProperties": false
+    }
+  },
+  "additionalProperties": false
+}
