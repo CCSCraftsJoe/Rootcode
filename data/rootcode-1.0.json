@@ -1,0 +1,916 @@
+{
+  "meta": {
+    "name": "Rootcode",
+    "version": "1.0.0",
+    "status": "canonical",
+    "released": "2026-10-03",
+    "creator": "Joe Culver / Culver Sculpture",
+    "characterSet": "ABCDEFGHIJKLMNOPQRSTUVWXYZ",
+    "readingDirection": "bottom-to-top",
+    "wordLayout": "vertical stack",
+    "construction": {
+      "topY": 45.26,
+      "unitHeight": 62.74,
+      "cellWidth": 50.2,
+      "primaryStrokeWidth": 3.9118110659999994,
+      "terminalRadius": 4.705,
+      "terminalStrokeWidth": 3.9123,
+      "terminalStyle": "hollow",
+      "internalNodeStyle": "filled",
+      "adjacentCharactersShareTerminal": true
+    },
+    "source": {
+      "generator": "rootcode-generator-v1.4",
+      "decoder": "ROOTS-SIGNALS-P27.3.4-CONTEXTLESS-DEPLOY",
+      "generatorGlyphsSha256": "26d015a0f32519c4a027b054c05b305f88b6477a0e8169cb6f2cb2d1d3a1a5bb"
+    },
+    "licenses": {
+      "code": "MIT",
+      "specification_and_assets": "CC BY 4.0"
+    }
+  },
+  "glyphs": {
+    "A": {
+      "centerX": 54.22,
+      "topY": 45.26,
+      "height": 62.74,
+      "strokeCount": 4,
+      "nodes": [
+        {
+          "type": "internal",
+          "x": 0.200032,
+          "y": 0.599936,
+          "r": 0.05
+        },
+        {
+          "type": "internal",
+          "x": -0.199872,
+          "y": 0.599936,
+          "r": 0.05
+        },
+        {
+          "type": "internal",
+          "x": 0.200032,
+          "y": 0.400064,
+          "r": 0.05
+        },
+        {
+          "type": "internal",
+          "x": -0.199872,
+          "y": 0.400064,
+          "r": 0.05
+        },
+        {
+          "type": "terminal",
+          "x": 0,
+          "y": 0,
+          "r": 0.074992
+        },
+        {
+          "type": "terminal",
+          "x": 0,
+          "y": 1,
+          "r": 0.074992
+        }
+      ],
+      "bodySVG": "<path d=\"M44.812492,70.356804 L63.634094,70.356804\" stroke=\"currentColor\" stroke-width=\"3.9118110659999994\" stroke-linecap=\"round\" stroke-linejoin=\"round\" fill=\"none\" /><path d=\"M44.812492,82.90453 L63.634094,82.90453\" stroke=\"currentColor\" stroke-width=\"3.9118110659999994\" stroke-linecap=\"round\" stroke-linejoin=\"round\" fill=\"none\" /><circle cx=\"66.77\" cy=\"82.9\" r=\"3.137\" stroke=\"currentColor\" stroke-width=\"3.9122999999999997\" fill=\"currentColor\" /><circle cx=\"41.68\" cy=\"82.9\" r=\"3.137\" stroke=\"currentColor\" stroke-width=\"3.9122999999999997\" fill=\"currentColor\" /><circle cx=\"66.77\" cy=\"70.36\" r=\"3.137\" stroke=\"currentColor\" stroke-width=\"3.9122999999999997\" fill=\"currentColor\" /><circle cx=\"41.68\" cy=\"70.36\" r=\"3.137\" stroke=\"currentColor\" stroke-width=\"3.9122999999999997\" fill=\"currentColor\" /><path d=\"M54.223293,49.966736 L54.223293,70.356804\" stroke=\"currentColor\" stroke-width=\"3.9118110659999994\" stroke-linecap=\"round\" stroke-linejoin=\"round\" fill=\"none\" /><path d=\"M54.223293,103.2946 L54.223293,82.90453\" stroke=\"currentColor\" stroke-width=\"3.9118110659999994\" stroke-linecap=\"round\" stroke-linejoin=\"round\" fill=\"none\" />"
+    },
+    "B": {
+      "centerX": 104.4,
+      "topY": 45.26,
+      "height": 62.74,
+      "strokeCount": 4,
+      "nodes": [
+        {
+          "type": "terminal",
+          "x": 0,
+          "y": 1,
+          "r": 0.074992
+        },
+        {
+          "type": "terminal",
+          "x": 0,
+          "y": 0,
+          "r": 0.074992
+        },
+        {
+          "type": "internal",
+          "x": 0.200829,
+          "y": 0.400064,
+          "r": 0.05
+        },
+        {
+          "type": "internal",
+          "x": 0.200829,
+          "y": 0.599936,
+          "r": 0.05
+        }
+      ],
+      "bodySVG": "<circle cx=\"117\" cy=\"70.36\" r=\"3.137\" stroke=\"currentColor\" stroke-width=\"3.9122999999999997\" fill=\"currentColor\" /><circle cx=\"117\" cy=\"82.9\" r=\"3.137\" stroke=\"currentColor\" stroke-width=\"3.9122999999999997\" fill=\"currentColor\" /><path d=\"M104.41422,49.966736 L104.41422,57.422894\" stroke=\"currentColor\" stroke-width=\"3.9118110659999994\" stroke-linecap=\"round\" stroke-linejoin=\"round\" fill=\"none\" /><path d=\"M104.41422,96.13642 L104.41422,103.2946\" stroke=\"currentColor\" stroke-width=\"3.9118110659999994\" stroke-linecap=\"round\" stroke-linejoin=\"round\" fill=\"none\" /><path d=\"M104.41422,96.13642 A12.845711,12.845711 0 0 0 116.96196,86.041466\" stroke=\"currentColor\" stroke-width=\"3.9118110659999994\" stroke-linecap=\"round\" stroke-linejoin=\"round\" fill=\"none\" /><path d=\"M116.96196,67.21987 A12.933907,12.933907 0 0 0 104.41422,57.422894\" stroke=\"currentColor\" stroke-width=\"3.9118110659999994\" stroke-linecap=\"round\" stroke-linejoin=\"round\" fill=\"none\" />"
+    },
+    "C": {
+      "centerX": 154.6,
+      "topY": 45.26,
+      "height": 62.74,
+      "strokeCount": 3,
+      "nodes": [
+        {
+          "type": "terminal",
+          "x": 0,
+          "y": 1,
+          "r": 0.074992
+        },
+        {
+          "type": "terminal",
+          "x": 0,
+          "y": 0,
+          "r": 0.074992
+        },
+        {
+          "type": "internal",
+          "x": 0,
+          "y": 0.25008,
+          "r": 0.05
+        },
+        {
+          "type": "internal",
+          "x": 0,
+          "y": 0.75008,
+          "r": 0.05
+        }
+      ],
+      "bodySVG": "<circle cx=\"154.6\" cy=\"60.95\" r=\"3.137\" stroke=\"currentColor\" stroke-width=\"3.9122999999999997\" fill=\"currentColor\" /><circle cx=\"154.6\" cy=\"92.32\" r=\"3.137\" stroke=\"currentColor\" stroke-width=\"3.9122999999999997\" fill=\"currentColor\" /><path d=\"M154.60516,103.2946 L154.60516,95.45226\" stroke=\"currentColor\" stroke-width=\"3.9118110659999994\" stroke-linecap=\"round\" stroke-linejoin=\"round\" fill=\"none\" /><path d=\"M154.60516,57.80907 L154.60516,49.966736\" stroke=\"currentColor\" stroke-width=\"3.9118110659999994\" stroke-linecap=\"round\" stroke-linejoin=\"round\" fill=\"none\" /><path d=\"M157.7421,60.946003 C168.72136,60.946003 168.72136,92.31533 157.7421,92.31533\" stroke=\"currentColor\" stroke-width=\"3.9118110659999994\" stroke-linecap=\"round\" stroke-linejoin=\"round\" fill=\"none\" />"
+    },
+    "D": {
+      "centerX": 204.8,
+      "topY": 45.26,
+      "height": 62.74,
+      "strokeCount": 5,
+      "nodes": [
+        {
+          "type": "internal",
+          "x": 0.199235,
+          "y": 0.400064,
+          "r": 0.05
+        },
+        {
+          "type": "internal",
+          "x": 0.199235,
+          "y": 0.599936,
+          "r": 0.05
+        },
+        {
+          "type": "terminal",
+          "x": 0,
+          "y": 0,
+          "r": 0.074992
+        },
+        {
+          "type": "terminal",
+          "x": 0,
+          "y": 1,
+          "r": 0.074992
+        }
+      ],
+      "bodySVG": "<path d=\"M204.79608,57.422894 L204.79608,96.13642\" stroke=\"currentColor\" stroke-width=\"3.9118110659999994\" stroke-linecap=\"round\" stroke-linejoin=\"round\" fill=\"none\" /><circle cx=\"217.3\" cy=\"70.36\" r=\"3.137\" stroke=\"currentColor\" stroke-width=\"3.9122999999999997\" fill=\"currentColor\" /><circle cx=\"217.3\" cy=\"82.9\" r=\"3.137\" stroke=\"currentColor\" stroke-width=\"3.9122999999999997\" fill=\"currentColor\" /><path d=\"M204.79608,49.966736 L204.79608,57.422894\" stroke=\"currentColor\" stroke-width=\"3.9118110659999994\" stroke-linecap=\"round\" stroke-linejoin=\"round\" fill=\"none\" /><path d=\"M204.79608,96.13642 L204.79608,103.2946\" stroke=\"currentColor\" stroke-width=\"3.9118110659999994\" stroke-linecap=\"round\" stroke-linejoin=\"round\" fill=\"none\" /><path d=\"M204.79608,96.13642 A12.845711,12.845711 0 0 0 217.34383,86.041466\" stroke=\"currentColor\" stroke-width=\"3.9118110659999994\" stroke-linecap=\"round\" stroke-linejoin=\"round\" fill=\"none\" /><path d=\"M217.34383,67.21987 A12.933907,12.933907 0 0 0 204.79608,57.422894\" stroke=\"currentColor\" stroke-width=\"3.9118110659999994\" stroke-linecap=\"round\" stroke-linejoin=\"round\" fill=\"none\" />"
+    },
+    "E": {
+      "centerX": 255,
+      "topY": 45.26,
+      "height": 62.74,
+      "strokeCount": 5,
+      "nodes": [
+        {
+          "type": "terminal",
+          "x": 0,
+          "y": 1,
+          "r": 0.074992
+        },
+        {
+          "type": "terminal",
+          "x": 0,
+          "y": 0,
+          "r": 0.074992
+        },
+        {
+          "type": "internal",
+          "x": -0.200829,
+          "y": 0.400064,
+          "r": 0.05
+        },
+        {
+          "type": "internal",
+          "x": 0.199235,
+          "y": 0.400064,
+          "r": 0.05
+        },
+        {
+          "type": "internal",
+          "x": 0,
+          "y": 0.599936,
+          "r": 0.05
+        }
+      ],
+      "bodySVG": "<circle cx=\"242.4\" cy=\"70.36\" r=\"3.137\" stroke=\"currentColor\" stroke-width=\"3.9122999999999997\" fill=\"currentColor\" /><circle cx=\"267.5\" cy=\"70.36\" r=\"3.137\" stroke=\"currentColor\" stroke-width=\"3.9122999999999997\" fill=\"currentColor\" /><circle cx=\"255\" cy=\"82.9\" r=\"3.137\" stroke=\"currentColor\" stroke-width=\"3.9122999999999997\" fill=\"currentColor\" /><path d=\"M242.43929,73.49374 L242.43929,95.45226\" stroke=\"currentColor\" stroke-width=\"3.9118110659999994\" stroke-linecap=\"round\" stroke-linejoin=\"round\" fill=\"none\" /><path d=\"M267.53476,73.49374 L267.53476,95.45226\" stroke=\"currentColor\" stroke-width=\"3.9118110659999994\" stroke-linecap=\"round\" stroke-linejoin=\"round\" fill=\"none\" /><path d=\"M267.53476,95.45226 L242.43929,95.45226\" stroke=\"currentColor\" stroke-width=\"3.9118110659999994\" stroke-linecap=\"round\" stroke-linejoin=\"round\" fill=\"none\" /><path d=\"M254.98701,95.45226 L254.98701,103.2946\" stroke=\"currentColor\" stroke-width=\"3.9118110659999994\" stroke-linecap=\"round\" stroke-linejoin=\"round\" fill=\"none\" /><path d=\"M254.98701,49.966736 L254.98701,79.7676\" stroke=\"currentColor\" stroke-width=\"3.9118110659999994\" stroke-linecap=\"round\" stroke-linejoin=\"round\" fill=\"none\" />"
+    },
+    "F": {
+      "centerX": 305.2,
+      "topY": 45.26,
+      "height": 62.74,
+      "strokeCount": 4,
+      "nodes": [
+        {
+          "type": "terminal",
+          "x": 0,
+          "y": 1,
+          "r": 0.074992
+        },
+        {
+          "type": "terminal",
+          "x": 0,
+          "y": 0,
+          "r": 0.074992
+        },
+        {
+          "type": "internal",
+          "x": 0.199235,
+          "y": 0.400064,
+          "r": 0.05
+        },
+        {
+          "type": "internal",
+          "x": 0.199235,
+          "y": 0.599936,
+          "r": 0.05
+        }
+      ],
+      "bodySVG": "<circle cx=\"317.7\" cy=\"70.36\" r=\"3.137\" stroke=\"currentColor\" stroke-width=\"3.9122999999999997\" fill=\"currentColor\" /><circle cx=\"317.7\" cy=\"82.9\" r=\"3.137\" stroke=\"currentColor\" stroke-width=\"3.9122999999999997\" fill=\"currentColor\" /><path d=\"M315.50754,85.12268 L305.17795,95.45226\" stroke=\"currentColor\" stroke-width=\"3.9118110659999994\" stroke-linecap=\"round\" stroke-linejoin=\"round\" fill=\"none\" /><path d=\"M315.50754,72.57495 L305.17795,82.90453\" stroke=\"currentColor\" stroke-width=\"3.9118110659999994\" stroke-linecap=\"round\" stroke-linejoin=\"round\" fill=\"none\" /><path d=\"M305.17795,49.966736 L305.17795,82.90453\" stroke=\"currentColor\" stroke-width=\"3.9118110659999994\" stroke-linecap=\"round\" stroke-linejoin=\"round\" fill=\"none\" /><path d=\"M305.17795,95.45226 L305.17795,103.2946\" stroke=\"currentColor\" stroke-width=\"3.9118110659999994\" stroke-linecap=\"round\" stroke-linejoin=\"round\" fill=\"none\" />"
+    },
+    "G": {
+      "centerX": 355.4,
+      "topY": 45.26,
+      "height": 62.74,
+      "strokeCount": 5,
+      "nodes": [
+        {
+          "type": "terminal",
+          "x": 0,
+          "y": 1,
+          "r": 0.074992
+        },
+        {
+          "type": "terminal",
+          "x": 0,
+          "y": 0,
+          "r": 0.074992
+        },
+        {
+          "type": "internal",
+          "x": -0.200829,
+          "y": 0.700032,
+          "r": 0.05
+        }
+      ],
+      "bodySVG": "<circle cx=\"342.8\" cy=\"89.18\" r=\"3.137\" stroke=\"currentColor\" stroke-width=\"3.9122999999999997\" fill=\"currentColor\" /><path d=\"M342.82117,92.31533 L342.82117,98.5892 L367.9166,98.5892\" stroke=\"currentColor\" stroke-width=\"3.9118110659999994\" stroke-linecap=\"round\" stroke-linejoin=\"round\" fill=\"none\" /><path d=\"M355.36887,57.80907 L367.9166,70.356804\" stroke=\"currentColor\" stroke-width=\"3.9118110659999994\" stroke-linecap=\"round\" stroke-linejoin=\"round\" fill=\"none\" /><path d=\"M355.36887,49.966736 L355.36887,57.80907\" stroke=\"currentColor\" stroke-width=\"3.9118110659999994\" stroke-linecap=\"round\" stroke-linejoin=\"round\" fill=\"none\" /><path d=\"M355.36887,98.5892 L355.36887,103.2946\" stroke=\"currentColor\" stroke-width=\"3.9118110659999994\" stroke-linecap=\"round\" stroke-linejoin=\"round\" fill=\"none\" /><path d=\"M367.9166,70.356804 L367.9166,98.5892\" stroke=\"currentColor\" stroke-width=\"3.9118110659999994\" stroke-linecap=\"round\" stroke-linejoin=\"round\" fill=\"none\" />"
+    },
+    "H": {
+      "centerX": 405.6,
+      "topY": 45.26,
+      "height": 62.74,
+      "strokeCount": 6,
+      "nodes": [
+        {
+          "type": "terminal",
+          "x": 0,
+          "y": 1,
+          "r": 0.074992
+        },
+        {
+          "type": "terminal",
+          "x": 0,
+          "y": 0,
+          "r": 0.074992
+        },
+        {
+          "type": "internal",
+          "x": -0.200829,
+          "y": 0.599936,
+          "r": 0.05
+        },
+        {
+          "type": "internal",
+          "x": 0.199235,
+          "y": 0.599936,
+          "r": 0.05
+        },
+        {
+          "type": "internal",
+          "x": -0.200829,
+          "y": 0.400064,
+          "r": 0.05
+        },
+        {
+          "type": "internal",
+          "x": 0.199235,
+          "y": 0.400064,
+          "r": 0.05
+        }
+      ],
+      "bodySVG": "<path d=\"M393.0121,95.45226 L418.10754,95.45226\" stroke=\"currentColor\" stroke-width=\"3.9118110659999994\" stroke-linecap=\"round\" stroke-linejoin=\"round\" fill=\"none\" /><circle cx=\"393\" cy=\"82.9\" r=\"3.137\" stroke=\"currentColor\" stroke-width=\"3.9122999999999997\" fill=\"currentColor\" /><circle cx=\"418.1\" cy=\"82.9\" r=\"3.137\" stroke=\"currentColor\" stroke-width=\"3.9122999999999997\" fill=\"currentColor\" /><circle cx=\"393\" cy=\"70.36\" r=\"3.137\" stroke=\"currentColor\" stroke-width=\"3.9122999999999997\" fill=\"currentColor\" /><circle cx=\"418.1\" cy=\"70.36\" r=\"3.137\" stroke=\"currentColor\" stroke-width=\"3.9122999999999997\" fill=\"currentColor\" /><path d=\"M396.14902,70.356804 L414.9706,70.356804\" stroke=\"currentColor\" stroke-width=\"3.9118110659999994\" stroke-linecap=\"round\" stroke-linejoin=\"round\" fill=\"none\" /><path d=\"M393.0121,86.041466 L393.0121,95.45226\" stroke=\"currentColor\" stroke-width=\"3.9118110659999994\" stroke-linecap=\"round\" stroke-linejoin=\"round\" fill=\"none\" /><path d=\"M418.10754,86.041466 L418.10754,95.45226\" stroke=\"currentColor\" stroke-width=\"3.9118110659999994\" stroke-linecap=\"round\" stroke-linejoin=\"round\" fill=\"none\" /><path d=\"M405.5598,49.966736 L405.5598,70.356804\" stroke=\"currentColor\" stroke-width=\"3.9118110659999994\" stroke-linecap=\"round\" stroke-linejoin=\"round\" fill=\"none\" /><path d=\"M405.5598,95.45226 L405.5598,103.2946\" stroke=\"currentColor\" stroke-width=\"3.9118110659999994\" stroke-linecap=\"round\" stroke-linejoin=\"round\" fill=\"none\" />"
+    },
+    "I": {
+      "centerX": 455.8,
+      "topY": 45.26,
+      "height": 62.74,
+      "strokeCount": 5,
+      "nodes": [
+        {
+          "type": "internal",
+          "x": -0.200829,
+          "y": 0.400064,
+          "r": 0.05
+        },
+        {
+          "type": "internal",
+          "x": 0.199235,
+          "y": 0.599936,
+          "r": 0.05
+        },
+        {
+          "type": "terminal",
+          "x": 0,
+          "y": 0,
+          "r": 0.074992
+        },
+        {
+          "type": "terminal",
+          "x": 0,
+          "y": 1,
+          "r": 0.074992
+        }
+      ],
+      "bodySVG": "<path d=\"M455.75073,49.966736 L455.75073,57.80907\" stroke=\"currentColor\" stroke-width=\"3.9118110659999994\" stroke-linecap=\"round\" stroke-linejoin=\"round\" fill=\"none\" /><path d=\"M455.75073,57.80907 L468.29846,57.80907 L468.29846,79.7676\" stroke=\"currentColor\" stroke-width=\"3.9118110659999994\" stroke-linecap=\"round\" stroke-linejoin=\"round\" fill=\"none\" /><path d=\"M443.203,95.45226 L455.75073,95.45226\" stroke=\"currentColor\" stroke-width=\"3.9118110659999994\" stroke-linecap=\"round\" stroke-linejoin=\"round\" fill=\"none\" /><path d=\"M443.203,73.49374 L443.203,95.45226\" stroke=\"currentColor\" stroke-width=\"3.9118110659999994\" stroke-linecap=\"round\" stroke-linejoin=\"round\" fill=\"none\" /><path d=\"M455.75073,95.45226 L455.75073,103.2946\" stroke=\"currentColor\" stroke-width=\"3.9118110659999994\" stroke-linecap=\"round\" stroke-linejoin=\"round\" fill=\"none\" /><circle cx=\"443.2\" cy=\"70.36\" r=\"3.137\" stroke=\"currentColor\" stroke-width=\"3.9122999999999997\" fill=\"currentColor\" /><circle cx=\"468.3\" cy=\"82.9\" r=\"3.137\" stroke=\"currentColor\" stroke-width=\"3.9122999999999997\" fill=\"currentColor\" />"
+    },
+    "J": {
+      "centerX": 505.9,
+      "topY": 45.26,
+      "height": 62.74,
+      "strokeCount": 3,
+      "nodes": [
+        {
+          "type": "internal",
+          "x": 0,
+          "y": 0.799968,
+          "r": 0.05
+        },
+        {
+          "type": "internal",
+          "x": 0,
+          "y": 0.200032,
+          "r": 0.05
+        },
+        {
+          "type": "terminal",
+          "x": 0,
+          "y": 0,
+          "r": 0.074992
+        },
+        {
+          "type": "terminal",
+          "x": 0,
+          "y": 1,
+          "r": 0.074992
+        }
+      ],
+      "bodySVG": "<path d=\"M502.80475,57.80907 C498.6381,57.839954 496.73987,60.062775 495.8011,62.457283 C494.8623,64.8518 494.8828,67.41799 495.30475,69.442696 C496.14862,73.49211 498.59802,75.37557 501.4541,76.10785 C504.31024,76.84012 507.57312,76.42121 510.42926,77.15349 C513.28534,77.885765 515.73474,79.769226 516.5786,83.818634 C517.0005,85.843346 517.02106,88.409546 516.0823,90.804054 C515.14343,93.19856 513.2453,95.42138 509.0786,95.45226\" stroke=\"currentColor\" stroke-width=\"3.9118110659999994\" stroke-linecap=\"round\" stroke-linejoin=\"round\" fill=\"none\" /><path d=\"M505.94168,98.5892 L505.94168,103.2946\" stroke=\"currentColor\" stroke-width=\"3.9118110659999994\" stroke-linecap=\"round\" stroke-linejoin=\"round\" fill=\"none\" /><path d=\"M505.94168,49.966736 L505.94168,54.672134\" stroke=\"currentColor\" stroke-width=\"3.9118110659999994\" stroke-linecap=\"round\" stroke-linejoin=\"round\" fill=\"none\" /><circle cx=\"505.9\" cy=\"95.45\" r=\"3.137\" stroke=\"currentColor\" stroke-width=\"3.9122999999999997\" fill=\"currentColor\" /><circle cx=\"505.9\" cy=\"57.81\" r=\"3.137\" stroke=\"currentColor\" stroke-width=\"3.9122999999999997\" fill=\"currentColor\" />"
+    },
+    "K": {
+      "centerX": 556.1,
+      "topY": 45.26,
+      "height": 62.74,
+      "strokeCount": 3,
+      "nodes": [
+        {
+          "type": "terminal",
+          "x": 0,
+          "y": 1,
+          "r": 0.074992
+        },
+        {
+          "type": "terminal",
+          "x": 0,
+          "y": 0,
+          "r": 0.074992
+        },
+        {
+          "type": "internal",
+          "x": 0,
+          "y": 0.200032,
+          "r": 0.05
+        },
+        {
+          "type": "internal",
+          "x": 0,
+          "y": 0.799968,
+          "r": 0.05
+        }
+      ],
+      "bodySVG": "<circle cx=\"556.1\" cy=\"57.81\" r=\"3.137\" stroke=\"currentColor\" stroke-width=\"3.9122999999999997\" fill=\"currentColor\" /><circle cx=\"556.1\" cy=\"95.45\" r=\"3.137\" stroke=\"currentColor\" stroke-width=\"3.9122999999999997\" fill=\"currentColor\" /><path d=\"M556.1326,49.966736 L556.1326,54.672134\" stroke=\"currentColor\" stroke-width=\"3.9118110659999994\" stroke-linecap=\"round\" stroke-linejoin=\"round\" fill=\"none\" /><path d=\"M556.1326,98.5892 L556.1326,103.2946\" stroke=\"currentColor\" stroke-width=\"3.9118110659999994\" stroke-linecap=\"round\" stroke-linejoin=\"round\" fill=\"none\" /><path d=\"M559.26953,57.80907 C563.4362,57.839954 565.33435,60.062775 566.2732,62.457283 C567.212,64.8518 567.1914,67.41799 566.76953,69.442696 C565.92566,73.49211 563.4763,75.37557 560.6201,76.10785 C557.76404,76.84012 554.5012,76.42121 551.645,77.15349 C548.78894,77.885765 546.33954,79.769226 545.49567,83.818634 C545.0737,85.843346 545.0532,88.409546 545.992,90.804054 C546.93085,93.19856 548.82904,95.42138 552.99567,95.45226\" stroke=\"currentColor\" stroke-width=\"3.9118110659999994\" stroke-linecap=\"round\" stroke-linejoin=\"round\" fill=\"none\" />"
+    },
+    "L": {
+      "centerX": 606.3,
+      "topY": 45.26,
+      "height": 62.74,
+      "strokeCount": 3,
+      "nodes": [
+        {
+          "type": "internal",
+          "x": 0,
+          "y": 0.5,
+          "r": 0.05
+        },
+        {
+          "type": "terminal",
+          "x": 0,
+          "y": 0,
+          "r": 0.074992
+        },
+        {
+          "type": "terminal",
+          "x": 0,
+          "y": 1,
+          "r": 0.074992
+        }
+      ],
+      "bodySVG": "<path d=\"M606.32355,89.1784 A12.547732,12.547732 0 0 0 606.32355,64.08293\" stroke=\"currentColor\" stroke-width=\"3.9118110659999994\" stroke-linecap=\"round\" stroke-linejoin=\"round\" fill=\"none\" /><path d=\"M606.32355,49.966736 L606.32355,64.08294\" stroke=\"currentColor\" stroke-width=\"3.9118110659999994\" stroke-linecap=\"round\" stroke-linejoin=\"round\" fill=\"none\" /><path d=\"M606.32355,79.7676 L606.32355,103.2946\" stroke=\"currentColor\" stroke-width=\"3.9118110659999994\" stroke-linecap=\"round\" stroke-linejoin=\"round\" fill=\"none\" /><circle cx=\"606.3\" cy=\"76.63\" r=\"3.137\" stroke=\"currentColor\" stroke-width=\"3.9122999999999997\" fill=\"currentColor\" />"
+    },
+    "M": {
+      "centerX": 656.5,
+      "topY": 45.26,
+      "height": 62.74,
+      "strokeCount": 3,
+      "nodes": [
+        {
+          "type": "internal",
+          "x": -0.199235,
+          "y": 0.599936,
+          "r": 0.05
+        },
+        {
+          "type": "internal",
+          "x": -0.199235,
+          "y": 0.400064,
+          "r": 0.05
+        },
+        {
+          "type": "terminal",
+          "x": 0,
+          "y": 0,
+          "r": 0.074992
+        },
+        {
+          "type": "terminal",
+          "x": 0,
+          "y": 1,
+          "r": 0.074992
+        }
+      ],
+      "bodySVG": "<path d=\"M656.51447,82.90453 L656.51447,103.2946\" stroke=\"currentColor\" stroke-width=\"3.9118110659999994\" stroke-linecap=\"round\" stroke-linejoin=\"round\" fill=\"none\" /><path d=\"M656.51447,49.966736 L656.51447,70.356804\" stroke=\"currentColor\" stroke-width=\"3.9118110659999994\" stroke-linecap=\"round\" stroke-linejoin=\"round\" fill=\"none\" /><path d=\"M647.1037,70.356804 L669.06226,70.356804 L669.06226,82.90453 L647.1037,82.90453\" stroke=\"currentColor\" stroke-width=\"3.9118110659999994\" stroke-linecap=\"round\" stroke-linejoin=\"round\" fill=\"none\" /><circle cx=\"644\" cy=\"82.9\" r=\"3.137\" stroke=\"currentColor\" stroke-width=\"3.9122999999999997\" fill=\"currentColor\" /><circle cx=\"644\" cy=\"70.36\" r=\"3.137\" stroke=\"currentColor\" stroke-width=\"3.9122999999999997\" fill=\"currentColor\" />"
+    },
+    "N": {
+      "centerX": 706.7,
+      "topY": 45.26,
+      "height": 62.74,
+      "strokeCount": 4,
+      "nodes": [
+        {
+          "type": "internal",
+          "x": 0.200829,
+          "y": 0.400064,
+          "r": 0.05
+        },
+        {
+          "type": "internal",
+          "x": -0.199235,
+          "y": 0.599936,
+          "r": 0.05
+        },
+        {
+          "type": "terminal",
+          "x": 0,
+          "y": 0,
+          "r": 0.074992
+        },
+        {
+          "type": "terminal",
+          "x": 0,
+          "y": 1,
+          "r": 0.074992
+        }
+      ],
+      "bodySVG": "<path d=\"M706.7054,82.90453 L697.2946,82.90453\" stroke=\"currentColor\" stroke-width=\"3.9118110659999994\" stroke-linecap=\"round\" stroke-linejoin=\"round\" fill=\"none\" /><path d=\"M706.7054,70.356804 L716.11615,70.356804\" stroke=\"currentColor\" stroke-width=\"3.9118110659999994\" stroke-linecap=\"round\" stroke-linejoin=\"round\" fill=\"none\" /><circle cx=\"719.3\" cy=\"70.36\" r=\"3.137\" stroke=\"currentColor\" stroke-width=\"3.9122999999999997\" fill=\"currentColor\" /><path d=\"M706.7054,82.90453 L706.7054,103.2946\" stroke=\"currentColor\" stroke-width=\"3.9118110659999994\" stroke-linecap=\"round\" stroke-linejoin=\"round\" fill=\"none\" /><path d=\"M706.7054,49.966736 L706.7054,70.356804\" stroke=\"currentColor\" stroke-width=\"3.9118110659999994\" stroke-linecap=\"round\" stroke-linejoin=\"round\" fill=\"none\" /><circle cx=\"694.2\" cy=\"82.9\" r=\"3.137\" stroke=\"currentColor\" stroke-width=\"3.9122999999999997\" fill=\"currentColor\" />"
+    },
+    "O": {
+      "centerX": 756.9,
+      "topY": 45.26,
+      "height": 62.74,
+      "strokeCount": 4,
+      "nodes": [
+        {
+          "type": "internal",
+          "x": 0.199235,
+          "y": 0.200032,
+          "r": 0.05
+        },
+        {
+          "type": "internal",
+          "x": -0.200829,
+          "y": 0.200032,
+          "r": 0.05
+        },
+        {
+          "type": "internal",
+          "x": 0.199235,
+          "y": 0.799968,
+          "r": 0.05
+        },
+        {
+          "type": "internal",
+          "x": -0.200829,
+          "y": 0.799968,
+          "r": 0.05
+        },
+        {
+          "type": "terminal",
+          "x": 0,
+          "y": 0,
+          "r": 0.074992
+        },
+        {
+          "type": "terminal",
+          "x": 0,
+          "y": 1,
+          "r": 0.074992
+        }
+      ],
+      "bodySVG": "<path d=\"M756.8963,103.2946 L756.8963,95.45226\" stroke=\"currentColor\" stroke-width=\"3.9118110659999994\" stroke-linecap=\"round\" stroke-linejoin=\"round\" fill=\"none\" /><path d=\"M756.8963,49.966736 L756.8963,57.80907\" stroke=\"currentColor\" stroke-width=\"3.9118110659999994\" stroke-linecap=\"round\" stroke-linejoin=\"round\" fill=\"none\" /><path d=\"M747.48553,95.45226 L766.3071,95.45226\" stroke=\"currentColor\" stroke-width=\"3.9118110659999994\" stroke-linecap=\"round\" stroke-linejoin=\"round\" fill=\"none\" /><path d=\"M747.48553,57.80907 L766.3071,57.80907\" stroke=\"currentColor\" stroke-width=\"3.9118110659999994\" stroke-linecap=\"round\" stroke-linejoin=\"round\" fill=\"none\" /><circle cx=\"769.4\" cy=\"57.81\" r=\"3.137\" stroke=\"currentColor\" stroke-width=\"3.9122999999999997\" fill=\"currentColor\" /><circle cx=\"744.3\" cy=\"57.81\" r=\"3.137\" stroke=\"currentColor\" stroke-width=\"3.9122999999999997\" fill=\"currentColor\" /><circle cx=\"769.4\" cy=\"95.45\" r=\"3.137\" stroke=\"currentColor\" stroke-width=\"3.9122999999999997\" fill=\"currentColor\" /><circle cx=\"744.3\" cy=\"95.45\" r=\"3.137\" stroke=\"currentColor\" stroke-width=\"3.9122999999999997\" fill=\"currentColor\" />"
+    },
+    "P": {
+      "centerX": 807.1,
+      "topY": 45.26,
+      "height": 62.74,
+      "strokeCount": 5,
+      "nodes": [
+        {
+          "type": "internal",
+          "x": 0,
+          "y": 0.700032,
+          "r": 0.05
+        },
+        {
+          "type": "internal",
+          "x": 0.199235,
+          "y": 0.200032,
+          "r": 0.05
+        },
+        {
+          "type": "terminal",
+          "x": 0,
+          "y": 0,
+          "r": 0.074992
+        },
+        {
+          "type": "terminal",
+          "x": 0,
+          "y": 1,
+          "r": 0.074992
+        }
+      ],
+      "bodySVG": "<path d=\"M810.1996,88.786285 A12.547732,12.547732 0 0 0 819.635,76.63067\" stroke=\"currentColor\" stroke-width=\"3.9118110659999994\" stroke-linecap=\"round\" stroke-linejoin=\"round\" fill=\"none\" /><path d=\"M807.0873,64.08293 A12.547732,12.547732 0 0 0 803.9749,88.786285\" stroke=\"currentColor\" stroke-width=\"3.9118110659999994\" stroke-linecap=\"round\" stroke-linejoin=\"round\" fill=\"none\" /><path d=\"M807.0872,92.31533 L807.0872,103.2946\" stroke=\"currentColor\" stroke-width=\"3.9118110659999994\" stroke-linecap=\"round\" stroke-linejoin=\"round\" fill=\"none\" /><path d=\"M819.635,60.946003 L819.635,76.63067\" stroke=\"currentColor\" stroke-width=\"3.9118110659999994\" stroke-linecap=\"round\" stroke-linejoin=\"round\" fill=\"none\" /><path d=\"M807.0872,49.966736 L807.0872,64.08294\" stroke=\"currentColor\" stroke-width=\"3.9118110659999994\" stroke-linecap=\"round\" stroke-linejoin=\"round\" fill=\"none\" /><circle cx=\"807.1\" cy=\"89.18\" r=\"3.137\" stroke=\"currentColor\" stroke-width=\"3.9122999999999997\" fill=\"currentColor\" /><circle cx=\"819.6\" cy=\"57.81\" r=\"3.137\" stroke=\"currentColor\" stroke-width=\"3.9122999999999997\" fill=\"currentColor\" />"
+    },
+    "Q": {
+      "centerX": 857.3,
+      "topY": 45.26,
+      "height": 62.74,
+      "strokeCount": 5,
+      "nodes": [
+        {
+          "type": "internal",
+          "x": 0.199235,
+          "y": 0.599936,
+          "r": 0.05
+        },
+        {
+          "type": "internal",
+          "x": 0.199235,
+          "y": 0.400064,
+          "r": 0.05
+        },
+        {
+          "type": "terminal",
+          "x": 0,
+          "y": 0,
+          "r": 0.074992
+        },
+        {
+          "type": "terminal",
+          "x": 0,
+          "y": 1,
+          "r": 0.074992
+        }
+      ],
+      "bodySVG": "<path d=\"M866.68896,70.356804 L844.73047,70.356804 L844.73047,82.90453 L866.68896,82.90453\" stroke=\"currentColor\" stroke-width=\"3.9118110659999994\" stroke-linecap=\"round\" stroke-linejoin=\"round\" fill=\"none\" /><path d=\"M869.8259,67.21987 A12.933907,12.933907 0 0 0 857.2782,57.422894\" stroke=\"currentColor\" stroke-width=\"3.9118110659999994\" stroke-linecap=\"round\" stroke-linejoin=\"round\" fill=\"none\" /><path d=\"M857.2782,96.13642 A12.845711,12.845711 0 0 0 869.8259,86.041466\" stroke=\"currentColor\" stroke-width=\"3.9118110659999994\" stroke-linecap=\"round\" stroke-linejoin=\"round\" fill=\"none\" /><path d=\"M857.2782,96.13642 L857.2782,103.2946\" stroke=\"currentColor\" stroke-width=\"3.9118110659999994\" stroke-linecap=\"round\" stroke-linejoin=\"round\" fill=\"none\" /><path d=\"M857.2782,49.966736 L857.2782,57.422894\" stroke=\"currentColor\" stroke-width=\"3.9118110659999994\" stroke-linecap=\"round\" stroke-linejoin=\"round\" fill=\"none\" /><circle cx=\"869.8\" cy=\"82.9\" r=\"3.137\" stroke=\"currentColor\" stroke-width=\"3.9122999999999997\" fill=\"currentColor\" /><circle cx=\"869.8\" cy=\"70.36\" r=\"3.137\" stroke=\"currentColor\" stroke-width=\"3.9122999999999997\" fill=\"currentColor\" />"
+    },
+    "R": {
+      "centerX": 907.5,
+      "topY": 45.26,
+      "height": 62.74,
+      "strokeCount": 4,
+      "nodes": [
+        {
+          "type": "internal",
+          "x": -0.200829,
+          "y": 0.599936,
+          "r": 0.05
+        },
+        {
+          "type": "internal",
+          "x": 0.199235,
+          "y": 0.400064,
+          "r": 0.05
+        },
+        {
+          "type": "terminal",
+          "x": 0,
+          "y": 0,
+          "r": 0.074992
+        },
+        {
+          "type": "terminal",
+          "x": 0,
+          "y": 1,
+          "r": 0.074992
+        }
+      ],
+      "bodySVG": "<path d=\"M907.4691,96.13642 A12.845711,12.845711 0 0 1 894.9214,86.041466\" stroke=\"currentColor\" stroke-width=\"3.9118110659999994\" stroke-linecap=\"round\" stroke-linejoin=\"round\" fill=\"none\" /><circle cx=\"894.9\" cy=\"82.9\" r=\"3.137\" stroke=\"currentColor\" stroke-width=\"3.9122999999999997\" fill=\"currentColor\" /><path d=\"M920.01685,67.21987 A12.933907,12.933907 0 0 0 907.4691,57.422894\" stroke=\"currentColor\" stroke-width=\"3.9118110659999994\" stroke-linecap=\"round\" stroke-linejoin=\"round\" fill=\"none\" /><path d=\"M907.4691,96.13642 L907.4691,103.2946\" stroke=\"currentColor\" stroke-width=\"3.9118110659999994\" stroke-linecap=\"round\" stroke-linejoin=\"round\" fill=\"none\" /><path d=\"M907.4691,49.966736 L907.4691,57.422894\" stroke=\"currentColor\" stroke-width=\"3.9118110659999994\" stroke-linecap=\"round\" stroke-linejoin=\"round\" fill=\"none\" /><circle cx=\"920\" cy=\"70.36\" r=\"3.137\" stroke=\"currentColor\" stroke-width=\"3.9122999999999997\" fill=\"currentColor\" />"
+    },
+    "S": {
+      "centerX": 957.7,
+      "topY": 45.26,
+      "height": 62.74,
+      "strokeCount": 4,
+      "nodes": [
+        {
+          "type": "internal",
+          "x": 0.199235,
+          "y": 0.200032,
+          "r": 0.05
+        },
+        {
+          "type": "internal",
+          "x": 0.199235,
+          "y": 0.599936,
+          "r": 0.05
+        },
+        {
+          "type": "internal",
+          "x": 0.199235,
+          "y": 0.400064,
+          "r": 0.05
+        },
+        {
+          "type": "terminal",
+          "x": 0,
+          "y": 0,
+          "r": 0.074992
+        },
+        {
+          "type": "terminal",
+          "x": 0,
+          "y": 1,
+          "r": 0.074992
+        }
+      ],
+      "bodySVG": "<circle cx=\"970.2\" cy=\"57.81\" r=\"3.137\" stroke=\"currentColor\" stroke-width=\"3.9122999999999997\" fill=\"currentColor\" /><path d=\"M967.9897,60.027218 L957.66003,70.356804\" stroke=\"currentColor\" stroke-width=\"3.9118110659999994\" stroke-linecap=\"round\" stroke-linejoin=\"round\" fill=\"none\" /><path d=\"M967.9897,72.57495 L957.66003,82.90453\" stroke=\"currentColor\" stroke-width=\"3.9118110659999994\" stroke-linecap=\"round\" stroke-linejoin=\"round\" fill=\"none\" /><path d=\"M967.9897,85.12268 L957.66003,95.45226\" stroke=\"currentColor\" stroke-width=\"3.9118110659999994\" stroke-linecap=\"round\" stroke-linejoin=\"round\" fill=\"none\" /><path d=\"M957.66003,49.966736 L957.66003,103.2946\" stroke=\"currentColor\" stroke-width=\"3.9118110659999994\" stroke-linecap=\"round\" stroke-linejoin=\"round\" fill=\"none\" /><circle cx=\"970.2\" cy=\"82.9\" r=\"3.137\" stroke=\"currentColor\" stroke-width=\"3.9122999999999997\" fill=\"currentColor\" /><circle cx=\"970.2\" cy=\"70.36\" r=\"3.137\" stroke=\"currentColor\" stroke-width=\"3.9122999999999997\" fill=\"currentColor\" />"
+    },
+    "T": {
+      "centerX": 1008,
+      "topY": 45.26,
+      "height": 62.74,
+      "strokeCount": 4,
+      "nodes": [
+        {
+          "type": "internal",
+          "x": 0,
+          "y": 0.700032,
+          "r": 0.05
+        },
+        {
+          "type": "internal",
+          "x": 0,
+          "y": 0.299968,
+          "r": 0.05
+        },
+        {
+          "type": "terminal",
+          "x": 0,
+          "y": 0,
+          "r": 0.074992
+        },
+        {
+          "type": "terminal",
+          "x": 0,
+          "y": 1,
+          "r": 0.074992
+        }
+      ],
+      "bodySVG": "<path d=\"M1004.73865,64.47505 A12.547732,12.547732 0 0 0 1004.73865,88.786285\" stroke=\"currentColor\" stroke-width=\"3.9118110659999994\" stroke-linecap=\"round\" stroke-linejoin=\"round\" fill=\"none\" /><path d=\"M1010.9633,88.786285 A12.547732,12.547732 0 0 0 1010.9633,64.47505\" stroke=\"currentColor\" stroke-width=\"3.9118110659999994\" stroke-linecap=\"round\" stroke-linejoin=\"round\" fill=\"none\" /><path d=\"M1007.85095,92.31533 L1007.85095,103.2946\" stroke=\"currentColor\" stroke-width=\"3.9118110659999994\" stroke-linecap=\"round\" stroke-linejoin=\"round\" fill=\"none\" /><path d=\"M1007.85095,60.946003 L1007.85095,49.966736\" stroke=\"currentColor\" stroke-width=\"3.9118110659999994\" stroke-linecap=\"round\" stroke-linejoin=\"round\" fill=\"none\" /><circle cx=\"1008\" cy=\"89.18\" r=\"3.137\" stroke=\"currentColor\" stroke-width=\"3.9122999999999997\" fill=\"currentColor\" /><circle cx=\"1008\" cy=\"64.08\" r=\"3.137\" stroke=\"currentColor\" stroke-width=\"3.9122999999999997\" fill=\"currentColor\" />"
+    },
+    "U": {
+      "centerX": 1058,
+      "topY": 45.26,
+      "height": 62.74,
+      "strokeCount": 3,
+      "nodes": [
+        {
+          "type": "internal",
+          "x": 0.207204,
+          "y": 0.400064,
+          "r": 0.05
+        },
+        {
+          "type": "internal",
+          "x": -0.207204,
+          "y": 0.599936,
+          "r": 0.05
+        },
+        {
+          "type": "terminal",
+          "x": 0,
+          "y": 0,
+          "r": 0.074992
+        },
+        {
+          "type": "terminal",
+          "x": 0,
+          "y": 1,
+          "r": 0.074992
+        }
+      ],
+      "bodySVG": "<path d=\"M1067.4528,70.356804 L1058.0419,70.356804\" stroke=\"currentColor\" stroke-width=\"3.9118110659999994\" stroke-linecap=\"round\" stroke-linejoin=\"round\" fill=\"none\" /><path d=\"M1048.6311,82.90453 L1058.0419,82.90453\" stroke=\"currentColor\" stroke-width=\"3.9118110659999994\" stroke-linecap=\"round\" stroke-linejoin=\"round\" fill=\"none\" /><path d=\"M1058.0419,49.966736 L1058.0419,103.2946\" stroke=\"currentColor\" stroke-width=\"3.9118110659999994\" stroke-linecap=\"round\" stroke-linejoin=\"round\" fill=\"none\" /><circle cx=\"1071\" cy=\"70.36\" r=\"3.137\" stroke=\"currentColor\" stroke-width=\"3.9122999999999997\" fill=\"currentColor\" /><circle cx=\"1045\" cy=\"82.9\" r=\"3.137\" stroke=\"currentColor\" stroke-width=\"3.9122999999999997\" fill=\"currentColor\" />"
+    },
+    "V": {
+      "centerX": 1108,
+      "topY": 45.26,
+      "height": 62.74,
+      "strokeCount": 3,
+      "nodes": [
+        {
+          "type": "internal",
+          "x": -0.191266,
+          "y": 0.599936,
+          "r": 0.05
+        },
+        {
+          "type": "internal",
+          "x": 0.207204,
+          "y": 0.400064,
+          "r": 0.05
+        },
+        {
+          "type": "terminal",
+          "x": 0,
+          "y": 0,
+          "r": 0.074992
+        },
+        {
+          "type": "terminal",
+          "x": 0,
+          "y": 1,
+          "r": 0.074992
+        }
+      ],
+      "bodySVG": "<circle cx=\"1096\" cy=\"82.9\" r=\"3.137\" stroke=\"currentColor\" stroke-width=\"3.9122999999999997\" fill=\"currentColor\" /><path d=\"M1097.9033,85.12268 L1108.2328,95.45226\" stroke=\"currentColor\" stroke-width=\"3.9118110659999994\" stroke-linecap=\"round\" stroke-linejoin=\"round\" fill=\"none\" /><circle cx=\"1121\" cy=\"70.36\" r=\"3.137\" stroke=\"currentColor\" stroke-width=\"3.9122999999999997\" fill=\"currentColor\" /><path d=\"M1108.2328,49.966736 L1108.2328,103.2946\" stroke=\"currentColor\" stroke-width=\"3.9118110659999994\" stroke-linecap=\"round\" stroke-linejoin=\"round\" fill=\"none\" /><path d=\"M1118.5624,72.57495 L1108.2328,82.90453\" stroke=\"currentColor\" stroke-width=\"3.9118110659999994\" stroke-linecap=\"round\" stroke-linejoin=\"round\" fill=\"none\" />"
+    },
+    "W": {
+      "centerX": 1158,
+      "topY": 45.26,
+      "height": 62.74,
+      "strokeCount": 3,
+      "nodes": [
+        {
+          "type": "internal",
+          "x": -0.191266,
+          "y": 0.400064,
+          "r": 0.05
+        },
+        {
+          "type": "terminal",
+          "x": 0,
+          "y": 0,
+          "r": 0.074992
+        },
+        {
+          "type": "terminal",
+          "x": 0,
+          "y": 1,
+          "r": 0.074992
+        }
+      ],
+      "bodySVG": "<path d=\"M1161.7511,48.588554 L1170.9714,57.80907\" stroke=\"currentColor\" stroke-width=\"3.9118110659999994\" stroke-linecap=\"round\" stroke-linejoin=\"round\" fill=\"none\" /><path d=\"M1161.7511,104.67278 L1170.9714,95.45226 L1170.9714,57.80907\" stroke=\"currentColor\" stroke-width=\"3.9118110659999994\" stroke-linecap=\"round\" stroke-linejoin=\"round\" fill=\"none\" /><path d=\"M1145.876,73.49374 L1145.876,95.45226 L1155.0966,104.67278\" stroke=\"currentColor\" stroke-width=\"3.9118110659999994\" stroke-linecap=\"round\" stroke-linejoin=\"round\" fill=\"none\" /><circle cx=\"1146\" cy=\"70.36\" r=\"3.137\" stroke=\"currentColor\" stroke-width=\"3.9122999999999997\" fill=\"currentColor\" />"
+    },
+    "X": {
+      "centerX": 1209,
+      "topY": 45.26,
+      "height": 62.74,
+      "strokeCount": 3,
+      "nodes": [
+        {
+          "type": "internal",
+          "x": 0,
+          "y": 0.75008,
+          "r": 0.05
+        },
+        {
+          "type": "internal",
+          "x": 0,
+          "y": 0.25008,
+          "r": 0.05
+        },
+        {
+          "type": "terminal",
+          "x": 0,
+          "y": 0,
+          "r": 0.074992
+        },
+        {
+          "type": "terminal",
+          "x": 0,
+          "y": 1,
+          "r": 0.074992
+        }
+      ],
+      "bodySVG": "<path d=\"M1205.4778,60.946003 C1194.4985,60.946003 1194.4985,92.31533 1205.4778,92.31533\" stroke=\"currentColor\" stroke-width=\"3.9118110659999994\" stroke-linecap=\"round\" stroke-linejoin=\"round\" fill=\"none\" /><path d=\"M1208.6147,95.45226 L1208.6147,103.2946\" stroke=\"currentColor\" stroke-width=\"3.9118110659999994\" stroke-linecap=\"round\" stroke-linejoin=\"round\" fill=\"none\" /><circle cx=\"1209\" cy=\"92.32\" r=\"3.137\" stroke=\"currentColor\" stroke-width=\"3.9122999999999997\" fill=\"currentColor\" /><path d=\"M1208.6147,57.80907 L1208.6147,49.966736\" stroke=\"currentColor\" stroke-width=\"3.9118110659999994\" stroke-linecap=\"round\" stroke-linejoin=\"round\" fill=\"none\" /><circle cx=\"1209\" cy=\"60.95\" r=\"3.137\" stroke=\"currentColor\" stroke-width=\"3.9122999999999997\" fill=\"currentColor\" />"
+    },
+    "Y": {
+      "centerX": 1259,
+      "topY": 45.26,
+      "height": 62.74,
+      "strokeCount": 5,
+      "nodes": [
+        {
+          "type": "internal",
+          "x": -0.207204,
+          "y": 0.599936,
+          "r": 0.05
+        },
+        {
+          "type": "internal",
+          "x": 0.191266,
+          "y": 0.400064,
+          "r": 0.05
+        },
+        {
+          "type": "terminal",
+          "x": 0,
+          "y": 0,
+          "r": 0.074992
+        },
+        {
+          "type": "terminal",
+          "x": 0,
+          "y": 1,
+          "r": 0.074992
+        }
+      ],
+      "bodySVG": "<circle cx=\"1246\" cy=\"82.9\" r=\"3.137\" stroke=\"currentColor\" stroke-width=\"3.9122999999999997\" fill=\"currentColor\" /><circle cx=\"1271\" cy=\"70.36\" r=\"3.137\" stroke=\"currentColor\" stroke-width=\"3.9122999999999997\" fill=\"currentColor\" /><path d=\"M1271.3534,95.45226 L1258.8057,95.45226\" stroke=\"currentColor\" stroke-width=\"3.9118110659999994\" stroke-linecap=\"round\" stroke-linejoin=\"round\" fill=\"none\" /><path d=\"M1258.8057,57.80907 L1246.2579,57.80907 L1246.2579,79.7676\" stroke=\"currentColor\" stroke-width=\"3.9118110659999994\" stroke-linecap=\"round\" stroke-linejoin=\"round\" fill=\"none\" /><path d=\"M1271.3534,73.49374 L1271.3534,95.45226\" stroke=\"currentColor\" stroke-width=\"3.9118110659999994\" stroke-linecap=\"round\" stroke-linejoin=\"round\" fill=\"none\" /><path d=\"M1258.8057,95.45226 L1258.8057,103.2946\" stroke=\"currentColor\" stroke-width=\"3.9118110659999994\" stroke-linecap=\"round\" stroke-linejoin=\"round\" fill=\"none\" /><path d=\"M1258.8057,49.966736 L1258.8057,57.80907\" stroke=\"currentColor\" stroke-width=\"3.9118110659999994\" stroke-linecap=\"round\" stroke-linejoin=\"round\" fill=\"none\" />"
+    },
+    "Z": {
+      "centerX": 1309,
+      "topY": 45.26,
+      "height": 62.74,
+      "strokeCount": 3,
+      "nodes": [
+        {
+          "type": "internal",
+          "x": 0,
+          "y": 0.599936,
+          "r": 0.05
+        },
+        {
+          "type": "terminal",
+          "x": 0,
+          "y": 0,
+          "r": 0.074992
+        },
+        {
+          "type": "terminal",
+          "x": 0,
+          "y": 1,
+          "r": 0.074992
+        }
+      ],
+      "bodySVG": "<path d=\"M1308.9966,57.80907 L1296.4489,57.80907 L1296.4489,95.45226 L1321.5443,95.45226 L1321.5443,67.21987 L1308.9966,67.21987 L1308.9966,79.7676\" stroke=\"currentColor\" stroke-width=\"3.9118110659999994\" stroke-linecap=\"round\" stroke-linejoin=\"round\" fill=\"none\" /><path d=\"M1308.9966,103.2946 L1308.9966,95.45226\" stroke=\"currentColor\" stroke-width=\"3.9118110659999994\" stroke-linecap=\"round\" stroke-linejoin=\"round\" fill=\"none\" /><path d=\"M1308.9966,49.966736 L1308.9966,57.80907\" stroke=\"currentColor\" stroke-width=\"3.9118110659999994\" stroke-linecap=\"round\" stroke-linejoin=\"round\" fill=\"none\" /><circle cx=\"1309\" cy=\"82.9\" r=\"3.137\" stroke=\"currentColor\" stroke-width=\"3.9122999999999997\" fill=\"currentColor\" />"
+    }
+  }
+}
