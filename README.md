@@ -25,3 +25,10 @@ Suggested attribution: **Rootcode — Joe Culver / Culver Sculpture, CC BY 4.0.*
 ## Canonical status
 
 `1.0.0` is the canonical public baseline. Implementations should identify the version they target and should not silently alter canonical glyph geometry.
+
+
+## Canonical web reference
+
+The canonical public web reference is: https://www.culversculpture.com/rootcode
+
+This page is intentionally omitted from the exhibition site's normal navigation while remaining public and crawlable.
